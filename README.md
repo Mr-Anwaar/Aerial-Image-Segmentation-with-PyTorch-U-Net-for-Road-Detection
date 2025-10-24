@@ -13,6 +13,9 @@ This project demonstrates **aerial image segmentation using a U-Net architecture
 It aims to accurately detect **road networks** from aerial or satellite imagery — a crucial step in **urban planning, autonomous navigation, and geospatial analysis**.
 
 This work serves as a **portfolio project** to showcase deep learning expertise in computer vision and semantic segmentation.
+<p align="center">
+  <img src="assets/Arial Image Segmentation.png" alt="Aerial Image Segmentation using U-Net" width="921" height="251">
+</p>
 
 ---
 
