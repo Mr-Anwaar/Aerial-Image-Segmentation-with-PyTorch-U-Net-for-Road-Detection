@@ -61,17 +61,13 @@ git clone https://github.com/<your-username>/Aerial_Image_Segmentation_with_PyTo
 cd Aerial_Image_Segmentation_with_PyTorch
 ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
-### 3. Run Notebook
+### 2. Run Notebook
 ```bash
 jupyter notebook Aerial_Image_Segmentation_with_PyTorch.ipynb
 ```
 
-### 4. Training and Evaluation
+### 3. Training and Evaluation
 You can modify the number of epochs, learning rate, or batch size inside the notebook.
 
 ---
